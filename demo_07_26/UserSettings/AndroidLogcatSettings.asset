@@ -1,0 +1,155 @@
+{
+    "m_SelectedDeviceId": "am954trc5dzptgxs",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 26838,
+            "exited": true
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 27182,
+            "exited": true
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 17418,
+            "exited": true
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 18907,
+            "exited": true
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 9350,
+            "exited": true
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.android.launcher3",
+            "processId": 2840,
+            "exited": false
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 16147,
+            "exited": false
+        },
+        {
+            "deviceId": "f99df596a2f4",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 20666,
+            "exited": false
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 25933,
+            "exited": true
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 26126,
+            "exited": true
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 27327,
+            "exited": true
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 27576,
+            "exited": true
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 29031,
+            "exited": true
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.DefaultCompany.demo_07_26",
+            "processId": 31756,
+            "exited": false
+        },
+        {
+            "deviceId": "am954trc5dzptgxs",
+            "name": "com.android.settings",
+            "processId": 31988,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
